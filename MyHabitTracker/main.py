@@ -37,7 +37,7 @@ today = datetime.now()
 DATE = today.strftime("%Y%m%d")
 # graph_config = {
 #     "date": DATE,
-#     "quantity": "10"
+#     "quantity": input("How much weight did you lift today? ")
     
 # }
 
